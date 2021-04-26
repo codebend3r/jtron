@@ -1,0 +1,16 @@
+.display-big {
+  font-size: 32px;
+  font-weight: bold;
+  color: red;
+}
+
+.fruit-list {
+  padding: 0;
+  margin: 0;
+}
+
+.fruit-item {
+  color:violet;
+  font-size: 16px;
+  list-style: none;
+}
